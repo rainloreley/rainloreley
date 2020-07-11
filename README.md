@@ -11,9 +11,8 @@ Hello 👋! I'm Adrian!
 
 And probably some more stuff I forgot about 😅
 
-## Contact
-
-You can contact me here:
+## Useful stuff
 
 - Email: adrian@abmgrt.dev
 - Twitter: @adrianbaumgart
+- Website: https://abmgrt.dev
