@@ -14,5 +14,5 @@ And probably some more stuff I forgot about 😅
 ## Useful stuff
 
 - Email: adrian@abmgrt.dev
-- Twitter: @adrianbaumgart
+- Twitter: [@adrianbaumgart](https://twitter.com/adrianbaumgart)
 - Website: https://abmgrt.dev
