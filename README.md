@@ -5,7 +5,7 @@ Hello 👋! I'm Adrian!
 ## Projects
 
 - [🖊 Mira](https://mira.fliney.eu)
-- <span style="font-size:larger;">𑗏</span> Spica
+- ◎ Spica
 - [📚 KlassenApp](https://klassenappd.de)
 - [NoWidgetFooter](https://github.com/adrianbaumgart/NoWidgetFooter)
 
