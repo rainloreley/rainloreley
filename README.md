@@ -15,5 +15,5 @@ And probably some more stuff I forgot about 😅
 
 You can contact me here:
 
-Email: adrian@abmgrt.dev
-Twitter: @adrianbaumgart
+- Email: adrian@abmgrt.dev
+- Twitter: @adrianbaumgart
