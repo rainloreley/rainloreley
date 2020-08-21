@@ -1,6 +1,6 @@
 # Adrian
 
-Hello 👋! I'm Adrian!
+Hello 👋! I'm Adrian! Sometimes I create stuff. And sometimes I upload it here. Most stuff is probably crap but I hope here is useful stuff as well...
 
 ## Projects
 
