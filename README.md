@@ -1,1 +1,2 @@
-<img src="https://media1.tenor.com/images/72d248637c0014c284ccae3b59cb0e7b/tenor.gif" />
+### Nothing to see here...
+<img style="width: 30px" src="https://media.tenor.com/lBoeGrikScQAAAAi/obama-obamium.gif" />
